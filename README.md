@@ -1,4 +1,4 @@
-##📚 Machine Learning & Data Science Books
+## 📚 Machine Learning & Data Science Books
 Welcome to the repository of Machine Learning and Data Science books! This collection covers a wide range of topics, from foundational theories to practical applications, and includes resources for both beginners and advanced learners. Below is a categorized list of the books available in this repository.
 
 ## Machine Learning & Deep Learning
