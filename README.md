@@ -65,10 +65,10 @@ Welcome to the repository of Machine Learning and Data Science books! This colle
 - **Machine Learning Performance Improvement Cheat Sheet (2016)**
 - **Machine Learning Paradigms - Artificial Immune Systems and their Applications in Software Personalization (2017)**
 
-##License
+## License
 LICENSE - Initial commit (2 months ago)
 
-##README Updates
+## README Updates
 README.md - Last updated last month
 
 📌 Explore & Enhance Your Knowledge! 🚀📚
