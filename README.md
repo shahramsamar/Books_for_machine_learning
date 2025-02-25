@@ -66,11 +66,11 @@ Welcome to the repository of Machine Learning and Data Science books! This colle
 - **Machine Learning Paradigms - Artificial Immune Systems and their Applications in Software Personalization (2017)**
 
 ## License
-LICENSE - Initial commit (2 months ago)
+- **LICENSE - Initial commit (2 months ago)**
 
 ## README Updates
-README.md - Last updated last month
+- **README.md - Last updated last month**
 
-📌 Explore & Enhance Your Knowledge! 🚀📚
+## 📌 Explore & Enhance Your Knowledge! 🚀📚
 
 This repository is a treasure trove of resources for anyone interested in Machine Learning, Data Science, and related fields. Dive in, explore, and happy learning!
